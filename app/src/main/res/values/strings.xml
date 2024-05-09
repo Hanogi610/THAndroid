@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">THAndroid</string>
+    <string name="danh_s_ch">List</string>
+    <string name="th_ng_k">Information</string>
+    <string name="t_m_ki_m">Search/Statistic</string>
+    <string name="add_new">Add New</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="date">Completion Date</string>
+    <string name="coop">Coop</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="me">myself</string>
+    <string name="pham_huy_hoang">Pham Huy Hoang</string>
+    <string name="statistics">Statistics</string>
+</resources>
